@@ -1,5 +1,5 @@
 ---
-title: middleware
+title: Python Django middleware
 date: 2018-01-23 16:52:12
 tags: python
 ---

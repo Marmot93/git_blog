@@ -4,6 +4,10 @@ date: 2018-02-24 14:47:27
 tags: 运维
 ---
 
+小坑一个：如果链接docker权限不够，把当前用户加入到docker组里面就好了,如下:
+1,useradd -G docker username
+2,newgrp docker
+
 ### docker pull 镜像名 从云端拉取镜像（建议翻墙）
 
 ### docker search 镜像名 查看云端镜像
