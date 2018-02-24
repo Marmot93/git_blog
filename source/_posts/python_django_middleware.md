@@ -4,6 +4,8 @@ date: 2018-01-23 16:52:12
 tags: python
 ---
 
+在Django公处理请求参数，参数和文件整理到request.data和request.files
+
 ```python
 from django.utils.deprecation import MiddlewareMixin
 import json
