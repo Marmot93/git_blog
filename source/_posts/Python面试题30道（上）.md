@@ -3,6 +3,7 @@ title: Python面试题30道（上）
 date: 2018-02-26 15:15:35
 tags:
 ---
+30 Essential Python Interview Questions You Should Know.
 
 ###Q-1: What Is Python? What Are The Benefits Of Using Python? What Do You Understand Of PEP 8?
 关于对Python的认识

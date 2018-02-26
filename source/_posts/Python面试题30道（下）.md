@@ -3,6 +3,8 @@ title: Python面试题30道（下）
 date: 2018-02-26 15:49:33
 tags:
 ---
+30 Essential Python Interview Questions You Should Know.
+
 ###Q-16: How Does The Ternary Operator Work In Python?
 ```python
 x, y = 35, 75
