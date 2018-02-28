@@ -5,9 +5,6 @@ tags:
 ---
 
 
-
-###为什么Django要用check_password
-
 看了一些check_password的源码
 ```python
 def check_password(password, encoded, setter=None, preferred='default'):
