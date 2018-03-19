@@ -1,7 +1,7 @@
 ---
 title: Django扩展命令
 date: 2018-03-19 17:54:06
-tags:
+tags: django
 ---
 Django扩展命令  
 

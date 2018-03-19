@@ -1,7 +1,7 @@
 ---
 title: Python Django middleware
 date: 2018-01-23 16:52:12
-tags: python
+tags: python django
 ---
 
 在Django公处理请求参数，参数和文件整理到request.data和request.files
