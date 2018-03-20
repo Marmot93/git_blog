@@ -1,7 +1,7 @@
 ---
 title: Python面试题30道（下）
 date: 2018-02-26 15:49:33
-tags:
+tags: python
 ---
 30 Essential Python Interview Questions You Should Know.
 

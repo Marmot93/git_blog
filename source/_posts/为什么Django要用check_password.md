@@ -1,7 +1,7 @@
 ---
 title: 为什么Django要用check_password
 date: 2018-02-28 09:50:52
-tags:
+tags: django
 ---
 
 
