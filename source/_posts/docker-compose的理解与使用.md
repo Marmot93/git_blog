@@ -8,6 +8,8 @@ docker-compose的理解与使用
 
 docker-compose是用来做docker集群管理的，也就是说我们可以通过它来管理docker
 
+[docker-compose讲解]（https://www.cnblogs.com/52fhy/p/5991344.html）
+
 执行docker-compose up 会读取docker-compose.yml中的配置文件来拉去镜像并构建和运行容器
 ``` docker-compose.yml
 version: "3"
