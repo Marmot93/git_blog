@@ -4,9 +4,9 @@
 
 # Head info
 head:
-    favicon: "http://oor3iu2zw.bkt.clouddn.com/header_01.jpeg"
-    high_res_favicon: "http://oor3iu2zw.bkt.clouddn.com/header_01.jpeg"
-    apple_touch_icon: "http://oor3iu2zw.bkt.clouddn.com/header_01.jpeg"
+    favicon: "http://service.cdn.yimartblock.com/WechatIMG41111.jpeg"
+    high_res_favicon: "http://service.cdn.yimartblock.com/WechatIMG41111.jpeg"
+    apple_touch_icon: "http://service.cdn.yimartblock.com/WechatIMG41111.jpeg"
     keywords:
     site_verification:
         google:
@@ -72,9 +72,9 @@ background:
 
 # Images Settings
 img:
-    logo: "http://oor3iu2zw.bkt.clouddn.com/header_01.jpeg"
-    avatar: "http://oor3iu2zw.bkt.clouddn.com/header_01.jpeg"
-    daily_pic: "http://oor3iu2zw.bkt.clouddn.com/header_01.jpeg"
+    logo: "http://service.cdn.yimartblock.com/WechatIMG41111.jpeg"
+    avatar: "http://service.cdn.yimartblock.com/WechatIMG41111.jpeg"
+    daily_pic: "http://service.cdn.yimartblock.com/WechatIMG41111.jpeg"
     sidebar_header: "/img/sidebar_header.png"
     random_thumbnail: "/img/random/material-"
     footer_image:
